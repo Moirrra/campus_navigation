@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qt/etc">
+        <file>qt.conf</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/benbu.png</file>
+        <file>img/shahe.png</file>
+        <file>img/bus.png</file>
+        <file>img/map.ico</file>
+    </qresource>
+</RCC>
