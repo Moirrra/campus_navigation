@@ -18,6 +18,7 @@
 
 编程语言：C++
 
-IDE：
+IDE： Qt Creator 4.11.0 
 
-编译器：
+编译器： MinGW 5.3.0 32bit 
+
